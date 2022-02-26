@@ -21,8 +21,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/ marryjone3 /vlessheroku",
-  "repository": "https://github.com/ marryjone3 /vlessheroku",
+  "website": "https://github.com/rrmike5/keli",
+  "repository": "https://github.com/rrmike5/keli",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
